@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamRuane99
-- I currently work as a data analyst, keen to use the scripting language as the golden source of data ingestion/visualisation.
+- I currently work as a product development data analyst, keen to use the scripting language as the golden source of data ingestion/visualisation.
 - Use of Power Bi, SQL and R on a regular basis at work. 
 - 👀 I’m interested in Sports and coding! 
 - Keen to use R, Python, SQL and Power BI.
