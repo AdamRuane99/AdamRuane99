@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AdamRuane99
 - I currently work as a product development data analyst, keen to use the scripting language as the golden source of data ingestion/visualisation.
+- Fanatic for Automation
 - Use of Power Bi, SQL and R on a regular basis at work. 
 - 👀 I’m interested in Sports and coding! 
 - Keen to use R, Python, SQL and Power BI.
+- Interest of exploring NLP (through emails/tweets etc.) and other MAchine Learning techniques.
+- Currently diving into Deep Learning! 
 
 <!---
 AdamRuane99/AdamRuane99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
