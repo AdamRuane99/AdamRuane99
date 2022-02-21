@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdamRuane99
 - I currently work as a product development data analyst, keen to use the scripting language as the golden source of data ingestion/visualisation.
-- Fanatic for Automation
 - Use of Power Bi, SQL and R on a regular basis at work. 
 - Interest in exploring NLP (through emails/tweets etc.) and other Machine Learning techniques.
 - Currently diving into Deep Learning! 
