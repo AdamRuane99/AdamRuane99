@@ -8,19 +8,12 @@ I'm a passionate product development data analyst with a mission to leverage scr
 
 I'm thrilled to share that I'll soon be starting my journey as a Master's student in Data Science! This exciting chapter will undoubtedly deepen my understanding of the field and open up new possibilities for impactful data-driven solutions.
 
-## 🔍 Exploring NLP, Computer Vision and Beyond
-
-Beyond my day-to-day work, I'm captivated by the potential of Natural Language Processing (NLP) and Computer Vision.
 
 ## 🚀 Delving into Deep Learning and Data Engineering
 
-Currently, I'm diving headfirst into the fascinating world of Deep Learning. The ability of neural networks to learn and comprehend complex patterns amazes me, and I'm eager to apply this knowledge to real-world challenges.
+Currently, I'm diving headfirst into the world of Deep Learning. The ability of neural networks to learn and comprehend complex patterns amazes me, and I'm eager to apply this knowledge to real-world challenges.
 
 Additionally, I'm honing my skills in Data Engineering, ensuring that data pipelines are robust, scalable, and efficient – the backbone of any successful data-driven initiative.
-
-## 📚 Let's Learn Together!
-
-I believe in the power of collaboration and knowledge sharing. If you're interested in any of my projects or have ideas to discuss, feel free to reach out! 
 
 ### 📫 How to Reach Me:
 
