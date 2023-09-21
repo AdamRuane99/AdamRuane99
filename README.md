@@ -12,7 +12,7 @@ Current Semester:
 - Statistics for AI 
 - Data Viz 
 - Research Skills in Artificial Intelligence 
--Tools and Techniques for Large Scale Data Analytics 
+- Tools and Techniques for Large-Scale Data Analytics 
 
 ## 🚀 Delving into Deep Learning and Data Engineering
 
