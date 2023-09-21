@@ -7,12 +7,12 @@ I'm a passionate product development data analyst with a mission to leverage scr
 ## 🎓 Master of Science in Computer Science - Artificial Intelligence student  (Currently)
 Current Semester:
 
-Programming and Tools for Artificial Intelligence 
-Principles of Machine Learning 
-Statistics for AI 
-Data Viz 
-Research Skills in Artificial Intelligence 
-Tools and techniques for Large Scale Data Analytics 
+- Programming and Tools for Artificial Intelligence 
+- Principles of Machine Learning 
+- Statistics for AI 
+- Data Viz 
+- Research Skills in Artificial Intelligence 
+-Tools and Techniques for Large Scale Data Analytics 
 
 ## 🚀 Delving into Deep Learning and Data Engineering
 
