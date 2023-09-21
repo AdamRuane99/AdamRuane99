@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdamRuane99)
 
-I'm a passionate product development data analyst with a mission to leverage scripting languages as the golden source for data ingestion and visualization. My daily toolkit includes Power BI, SQL, Python, and R, which I wield with expertise to extract valuable insights.
+I'm a passionate product development data analyst with a mission to leverage scripting languages as the golden source for data ingestion and visualization. My daily toolkit includes Power BI, SQL, Python, and R
 
 ## 🎓 Master of Science in Computer Science - Artificial Intelligence student  (Currently)
 Current Semester:
