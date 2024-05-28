@@ -16,7 +16,7 @@ Current Semester:
 
 ## 🚀 Delving into Deep Learning and NLP / LLMs
 
-Currently, I'm diving into Deep Learning as well as NLP tasks and prompt engineering with LLMs.
+Currently, I'm experimenting with Deep Learning as well as NLP tasks and prompt engineering with LLMs.
 
 ### 📫 How to Reach Me:
 
