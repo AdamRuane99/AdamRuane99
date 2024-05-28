@@ -14,11 +14,9 @@ Current Semester:
 - Research Skills in Artificial Intelligence 
 - Tools and Techniques for Large-Scale Data Analytics 
 
-## 🚀 Delving into Deep Learning and Data Engineering
+## 🚀 Delving into Deep Learning and NLP / LLMs
 
-Currently, I'm diving into Deep Learning.
-
-Additionally, I'm learning skills in Data Engineering, ensuring that data pipelines are robust, scalable, and efficient – the backbone of any successful data-driven initiative.
+Currently, I'm diving into Deep Learning as well as NLP tasks and prompt engineering with LLMs.
 
 ### 📫 How to Reach Me:
 
