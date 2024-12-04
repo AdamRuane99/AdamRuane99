@@ -9,10 +9,12 @@ Current Semester:
 
 - Programming and Tools for Artificial Intelligence 
 - Principles of Machine Learning 
-- Statistics for AI 
-- Data Viz 
-- Research Skills in Artificial Intelligence 
+- Statistics for AI
 - Tools and Techniques for Large-Scale Data Analytics 
+- Data Visualisation
+- Information Retrieval
+- Research Skills in Artificial Intelligence 
+- Natural Language Processing (NLP)
 
 ## 🚀 Delving into Deep Learning and NLP / LLMs
 
