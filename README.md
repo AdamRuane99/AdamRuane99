@@ -13,8 +13,13 @@ Current Semester:
 - Tools and Techniques for Large-Scale Data Analytics 
 - Data Visualisation
 - Information Retrieval
-- Research Skills in Artificial Intelligence 
+- Research Skills in Artificial Intelligence
+- Information Retrieval
+- Knowledge Representation
 - Natural Language Processing (NLP)
+- Deep Learning
+- Agents, Multi-Agent Systems & Reinforcement Learning
+
 
 ## 🚀 Delving into Deep Learning and NLP / LLMs
 
