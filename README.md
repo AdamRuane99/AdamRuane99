@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdamRuane99)
 
-I'm a passionate data analyst with a mission to leverage scripting languages as the golden source for data ingestion and visualisation. My daily toolkit includes Power BI, SQL, Python, and R
+I'm a passionate data scientist / analyst. Very strong in Python, SQL, R and Power BI as well as experience with Java
 
 ## 🎓 Master of Science in Computer Science - Artificial Intelligence student  (Currently)
 Current Semester:
@@ -24,6 +24,13 @@ Current Semester:
 ## 🚀 Delving into Deep Learning and NLP / LLMs
 
 Currently, I'm experimenting with Deep Learning as well as NLP tasks and prompt engineering with LLMs.
+
+## Overall Github Repo structure
+Currently moving away towards intial folder structure where I placed a lot of my projects in python, R or Data Engineering together in one folder repo. 
+
+For example the R / Python / Data Engineering folder contains many projects and scripts from multiple projects 
+
+WIll be looking to keep folders more strcutured using best pracises such as cookie cutter templates.
 
 ### 📫 How to Reach Me:
 
